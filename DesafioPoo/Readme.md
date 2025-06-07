@@ -93,12 +93,14 @@ Este projeto tem um grande potencial de expansão. Algumas ideias para o futuro:
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
-
 <p align="center">
-  Feito com ❤️ por <strong>Carla Andrade]</strong>
+  Feito com ❤️ por <strong>[Seu Nome]</strong>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlacristinasandrade/]">
+  <a href="[https://github.com/Cris-deli?tab=repositories]">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="[https://www.linkedin.com/in/carlacristinasandrade/]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
