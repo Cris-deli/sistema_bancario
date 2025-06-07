@@ -1,4 +1,4 @@
-# 🏦 Sistema Bancário Simples em Python
+# 🏦 Sistema Bancário em Python
 
 Este é um projeto de um sistema bancário básico desenvolvido em Python. O objetivo principal foi aplicar conceitos fundamentais de programação, como variáveis, condicionais, laços, funções e manipulação de estruturas de dados (listas e dicionários), para criar uma interface de linha de comando funcional.
 
