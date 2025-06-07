@@ -1,4 +1,4 @@
-# ByteBank 🏦
+# Sistema Bancário em Python 🏦
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green.svg)
@@ -18,14 +18,9 @@ Este projeto não nasceu pronto. Ele representa uma jornada de evolução de có
 
 * **Versão 2 (Orientada a Objetos):** A versão atual! Refatoramos todo o sistema para usar classes, encapsulando dados e comportamentos. O resultado é um código mais limpo, intuitivo e modular.
 
-![GIF de demonstração do sistema em funcionamento](httpsg-da-tela-do-seu-terminal-mostrando-o-sistema-em-ao-usando-um-programa-como-o-LICEcap-ou-ScreenToGif-e-adicione-ao-README.-um-toque-profissional-excelente!/placeholder.gif) 
-*(Dica: Substitua este link por um GIF real do seu projeto!)*
-
----
-
 ### ✅ Funcionalidades Principais
 
-O ByteBank permite que você gerencie clientes e suas contas com as seguintes operações:
+O Sistema Bancário permite que você gerencie clientes e suas contas com as seguintes operações:
 
 * **🧑 Novo Cliente:** Cadastre novos clientes (Pessoas Físicas) no sistema.
 * **💳 Nova Conta:** Crie contas correntes vinculadas a clientes existentes.
@@ -34,7 +29,7 @@ O ByteBank permite que você gerencie clientes e suas contas com as seguintes op
 * **🧾 Extrato:** Visualize o histórico de transações de uma conta.
 * **📊 Listar Contas:** Exiba todas as contas cadastradas no banco.
 
----
+
 
 ### 🏛️ Arquitetura Orientada a Objetos
 
@@ -49,7 +44,6 @@ A mágica acontece aqui! A estrutura do sistema é modelada com as seguintes cla
     * `Deposito`: Representa uma operação de depósito.
 * `Historico`: Uma classe dedicada a registrar e gerenciar todas as transações de uma conta.
 
----
 
 ### 🛠️ Tecnologias Utilizadas
 
@@ -59,7 +53,7 @@ Este projeto foi construído puramente com:
 
 Não são necessárias bibliotecas externas. Apenas o poder da biblioteca padrão!
 
----
+
 
 ### 🚀 Como Executar o Projeto
 
@@ -82,7 +76,6 @@ Não são necessárias bibliotecas externas. Apenas o poder da biblioteca padrã
 
 Pronto! O menu interativo aparecerá no seu terminal.
 
----
 
 ### 🔭 Para Onde Vamos? (Próximos Passos)
 
@@ -94,13 +87,12 @@ Este projeto tem um grande potencial de expansão. Algumas ideias para o futuro:
 * [ ] **Testes Unitários:** Adicionar testes para garantir a robustez das classes e métodos.
 * [ ] **Interface Gráfica:** Criar uma interface mais amigável usando `Tkinter` ou uma interface web com `Flask`/`Django`.
 
----
 
 ### 📜 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+
 
 <p align="center">
   Feito com ❤️ por <strong>Carla Andrade]</strong>
