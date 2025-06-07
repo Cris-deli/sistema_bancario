@@ -94,7 +94,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 
 <p align="center">
-  Feito com ❤️ por <strong>[Seu Nome]</strong>
+  Feito com ❤️ por <strong>[Carla Andrade]</strong>
 </p>
 <p align="center">
   <a href="[https://github.com/Cris-deli?tab=repositories]">
